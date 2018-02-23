@@ -1,0 +1,9 @@
+
+{
+  "name": "compa-bot",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "YOMAMA-GAMING",
+  "dependencies": {}
+}
